@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-dev.kubernete.online
+REDIS_HOST: redis-dev.kubernete.online
+MYSQL_HOST: mysql-dev.kubernete.online
+RABBITMQ_HOST: rabbitmq-dev.kubernete.online
+CATALOGUE_HOST: catalogue-dev.kubernete.online
+USER_HOST: user-dev.kubernete.online
+CART_HOST: cart-dev.kubernete.online
+SHIPPING_HOST: shipping-dev.kubernete.online
+PAYMENT_HOST: payment-dev.kubernete.online
+DISPATCH_HOST: dispatch-dev.kubernete.online
