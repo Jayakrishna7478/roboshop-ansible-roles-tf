@@ -8,3 +8,5 @@ CART_HOST: cart.app-dev.kubernete.online
 SHIPPING_HOST: shipping.app-dev.kubernete.online
 PAYMENT_HOST: payment.app-dev.kubernete.online
 DISPATCH_HOST: dispatch.app-dev.kubernete.online
+NEXUS_URL: https://172.31.8.127:8081/repository
+group_id: "com/roboshop"
