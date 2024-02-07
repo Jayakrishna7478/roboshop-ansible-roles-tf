@@ -25,7 +25,7 @@
 - name: Download artifact from nexus
   ansible.builtin.get_url:
     # url: "{{NEXUS_URL}}/{{component}}/{{group_id}}/{{component}}/{{app_version}}/{{component}}-{{app_version}}.zip"
-    url: "http://172.31.41.220:8081/repository/catalogue/com/roboshop/catalogue//catalogue-1.2.0.zip"
+    url: "http://3.80.173.208:8081/repository/catalogue/com/roboshop/catalogue//catalogue-1.2.0.zip"
     dest: /tmp
 
 - name: "extract {{component}} application"
