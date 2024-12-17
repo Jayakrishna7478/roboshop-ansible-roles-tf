@@ -1,14 +1,13 @@
-# MONGODB_HOST: mongodb-dev.kubernete.online
-# REDIS_HOST: redis-dev.kubernete.online
-# MYSQL_HOST: mysql-dev.kubernete.online
-# RABBITMQ_HOST: rabbitmq-dev.kubernete.online
+MONGODB_HOST: mongodb-dev.kubernete.online
+REDIS_HOST: redis-dev.kubernete.online
+MYSQL_HOST: mysql-dev.kubernete.online
+RABBITMQ_HOST: rabbitmq-dev.kubernete.online
 CATALOGUE_HOST: catalogue.app-dev.kubernete.online
-# USER_HOST: user.app-dev.kubernete.online
-# CART_HOST: cart.app-dev.kubernete.online
-# SHIPPING_HOST: shipping.app-dev.kubernete.online
-# PAYMENT_HOST: payment.app-dev.kubernete.online
-# DISPATCH_HOST: dispatch.app-dev.kubernete.online
-# #NEXUS_URL: http://3.80.173.208:8081/repository
-NEXUS_URL: http://172.31.31.78:8081/repository
+USER_HOST: user.app-dev.kubernete.online
+CART_HOST: cart.app-dev.kubernete.online
+SHIPPING_HOST: shipping.app-dev.kubernete.online
+PAYMENT_HOST: payment.app-dev.kubernete.online
+DISPATCH_HOST: dispatch.app-dev.kubernete.online
+NEXUS_URL: http://172.31.84.78:8081/repository
 group_id: "com/roboshop"
 packaging: "zip"
